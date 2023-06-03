@@ -1,0 +1,15 @@
+D:\Patika\Abstract\obj\Debug\net7.0\Abstract.csproj.AssemblyReference.cache
+D:\Patika\Abstract\obj\Debug\net7.0\Abstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\Abstract\obj\Debug\net7.0\Abstract.AssemblyInfoInputs.cache
+D:\Patika\Abstract\obj\Debug\net7.0\Abstract.AssemblyInfo.cs
+D:\Patika\Abstract\obj\Debug\net7.0\Abstract.csproj.CoreCompileInputs.cache
+D:\Patika\Abstract\bin\Debug\net7.0\Abstract.exe
+D:\Patika\Abstract\bin\Debug\net7.0\Abstract.deps.json
+D:\Patika\Abstract\bin\Debug\net7.0\Abstract.runtimeconfig.json
+D:\Patika\Abstract\bin\Debug\net7.0\Abstract.dll
+D:\Patika\Abstract\bin\Debug\net7.0\Abstract.pdb
+D:\Patika\Abstract\obj\Debug\net7.0\Abstract.dll
+D:\Patika\Abstract\obj\Debug\net7.0\refint\Abstract.dll
+D:\Patika\Abstract\obj\Debug\net7.0\Abstract.pdb
+D:\Patika\Abstract\obj\Debug\net7.0\Abstract.genruntimeconfig.cache
+D:\Patika\Abstract\obj\Debug\net7.0\ref\Abstract.dll
